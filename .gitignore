@@ -1,0 +1,13 @@
+node_modules/
+dist/
+*.tsbuildinfo
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# 手动放置的协议库
+Model/
